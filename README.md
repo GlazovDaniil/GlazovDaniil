@@ -25,5 +25,3 @@
 <a href="http://www.github.com/GlazovDaniil"><img src="https://github-readme-stats.vercel.app/api?username=GlazovDaniil&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=3382ed&icon_color=22c55e&bg_color=27272a&hide_border=true&show_icons=true" alt="GlazovDaniil's GitHub stats" /></a>
 
 <a href="http://www.github.com/GlazovDaniil"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GlazovDaniil&stroke=3382ed&background=27272a&ring=f97316&fire=f97316&currStreakNum=3382ed&currStreakLabel=f97316&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
-
-<a href="https://github.com/GlazovDaniil" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlazovDaniil&langs_count=10&title_color=f97316&text_color=3382ed&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
